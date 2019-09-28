@@ -7,7 +7,7 @@ int main()
 	for(i=0;i<n;i++)
 	scanf("%d",&bar[i]);
 	
-	for(i=0;i<=n;i++)
+	for(i=0;i<n;i++)
 	{
 		if(i<n)
 		{
